@@ -11,9 +11,9 @@ $attributeGroupId = $setup->getDefaultAttributeGroupId($entityTypeId, $attribute
 
 $setup->addAttribute('customer', 'custom_attribute_code', array(
 	'type' => 'int',
-	'input' => 'text',
+	'input' => 'select',
 	'frontend_input' => 'select',
-	'source_model' => 'eav/entity_attribute_source_boolean',
+	'source' => 'eav/entity_attribute_source_boolean',
 	'label' => 'Custom Attribute Title',
 	'global' => 1,
 	'visible' => 1,
