@@ -1,0 +1,18 @@
+<config>
+    <modules>
+        <MobWeb_AddCustomerAttribute>
+            <version>0.1.0</version>
+        </MobWeb_AddCustomerAttribute>
+    </modules>
+    
+    <global>
+        <resources>
+            <addcustomerattribute_setup>
+                <setup>
+                    <module>MobWeb_AddCustomerAttribute</module>
+                    <class>Mage_Customer_Model_Entity_Setup</class>
+                </setup>
+            </addcustomerattribute_setup>
+        </resources>
+    </global>
+</config>
