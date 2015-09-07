@@ -1,10 +1,14 @@
 # MobWeb_AddCustomerAttribute extension for Magento
 
-...
+A simple extension that adds a new attribute to the customer object in the backend. This new attribute can only be changed in the backend, and is not accesible by the customer through the frontend.
 
 ## Installation
 
 Install using [colinmollenhour/modman](https://github.com/colinmollenhour/modman/).
+
+## Configuration
+
+Replace **Custom Attribute Title** and **custom_attribute_code** with your desired values accross all files.
 
 ## Questions? Need help?
 
