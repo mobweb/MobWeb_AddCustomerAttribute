@@ -1,4 +1,4 @@
-app/code/local/MobWeb/AddCustomerAttribute app/code/local/MobWeb/AddCustomerAttribute/
+app/code/community/MobWeb/AddCustomerAttribute app/code/community/MobWeb/AddCustomerAttribute/
 
 app/etc/modules/MobWeb_AddCustomerAttribute.xml app/etc/modules/MobWeb_AddCustomerAttribute.xml
 
